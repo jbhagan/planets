@@ -1,4 +1,4 @@
-jupiter file yayyyyy
+Brendan (alpha) change: jupiter file
 
 
 This is a new edit to the Jupiter file. It’s got so many moons.
@@ -6,3 +6,5 @@ This is a new edit to the Jupiter file. It’s got so many moons.
 git diff compares the latest commit to the staging area.
 
 test change without line.
+
+ 
